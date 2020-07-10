@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<div align="center">
+	<br>
+	<br>
+	<br>
+  <p> I am currently working on </p>
+	<img src="https://github.com/tshradheya/tshradheya/raw/master/spinner.svg?sanitize=true" width="40" height="40">
+	<br>
+	<br>
+	<br>
+</div>
+
+
 <!--
 **tshradheya/tshradheya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
