@@ -1,10 +1,13 @@
+<!--
 ### Hi there 👋
+-->
+
 
 <div align="center">
 	<br>
 	<br>
 	<br>
-  <p> I am currently working on </p>
+  	<p> Hi there 👋! <br> I am currently working on </p>
 	<img src="https://github.com/tshradheya/tshradheya/raw/master/spinner.svg?sanitize=true" width="40" height="40">
 	<br>
 	<br>
