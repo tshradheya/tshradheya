@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shradheya Thakre</h1>
-<h3 align="center">I am a Software Engineer in Singapore</h3>
+<h3 align="center">I am a Software Engineer in Singapore. Worked at @Teammates and @giddyinc</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshradheya" alt="tshradheya" /> </p>
 
 - 🔭 I’m currently working on **some startup ideas and soon starting at Visa.**
 
 - 👯 I’m looking to collaborate on **any cool tech stuff**
 
-- 👨‍💻 All of my projects are available at [www.shradheyathakre.com](www.shradheyathakre.com)
+- 👨‍💻 All of my projects are available at [https://github.com/tshradheya](Github)
 
-- 📝 I regulary write articles on [www.shradheyathakre.com](www.shradheyathakre.com)
+- 📝 I regulary write articles on [www.shradheyathakre.com](my website)
 
 - 💬 Ask me about **NodeJS, Go, React, Java and soon Big Data**
 
