@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **any cool tech stuff**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/tshradheya)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/tshradheya)
 
-- 📝 I regulary write articles on [my website](www.shradheyathakre.com)
+- 📝 You can view my detailed portfolio on [my website](http://www.shradheyathakre.com)
 
 - 🤔 I’m looking for help with learning new technologies 😭;
 
