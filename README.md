@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shradheya Thakre</h1>
 <h3 align="center">
- I am a Software Engineer in Singapore. Worked at <a href="https://github.com/TEAMMATES">Teammates OSS</a> and <a href="https://github.com/giddyin"> Boxed - New York</a>. Besides programming, I enjoy traveling and following sports.</h3>
+ I am a Software Engineer at Visa in Singapore. I am also a Co-Tech Lead at a early-stage startup. Worked at <a href="https://github.com/TEAMMATES">Teammates OSS</a> and <a href="https://github.com/giddyin"> Boxed - New York</a>. Besides programming, I enjoy traveling and following sports.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshradheya" alt="tshradheya" /> </p>
 
-- 🔭 I’m currently working on **some startup ideas and soon starting at Visa.**
+- 🔭 I’m currently working at **Visa. On the side I am also co-heading a technical team for a startup**
 
 - 👯 I’m looking to collaborate on **any cool tech stuff**
 
