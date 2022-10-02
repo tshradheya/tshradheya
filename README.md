@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shradheya Thakre</h1>
 <h3 align="center">
- I am a Software Engineer at Agoda in Singapore. I am also a Co-Tech Lead at a early-stage startup. Worked at <a href="https://github.com/TEAMMATES">Teammates OSS</a> and <a href="https://github.com/giddyin"> Boxed - New York</a>. Besides programming, I enjoy traveling and following sports.</h3>
+ I am a Software Engineer at Agoda in Singapore. Worked at Visa Inc, <a href="https://github.com/TEAMMATES">Teammates OSS</a> and <a href="https://github.com/giddyin"> Boxed - New York</a>. Besides programming, I enjoy traveling and following sports.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshradheya" alt="tshradheya" /> </p>
 
-- 🔭 I’m currently working at **Agoda. On the side I am also co-heading a technical team for a startup**
+- 🔭 I’m currently working at **Agoda**. On the side, I am also learning and building with cool new technologies 
 
 - 👯 I’m looking to collaborate on **any cool tech stuff**
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/tshradheya) and [GitLab](https://gitlab.com/tshradheya)
 
-- 📝 You can view my detailed portfolio on [my website](http://www.shradheyathakre.com)
+- 📝 You can view my detailed(most likely outdated) portfolio on [my website](http://www.shradheyathakre.com)
 
 - 🤔 I’m looking for help with learning new technologies 😭;
 
-- 💬 Ask me about **NodeJS, Go, React, Java, Big Data, Scala and other cool stuff**
+- 💬 Ask me about **NodeJS, Go, React, Java, Big Data, Scala, Spark, DBT and other cool stuff**
 
 - 📫 How to reach me **tshradheya@gmail.com**
 
