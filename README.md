@@ -31,3 +31,20 @@
 <a href="https://instagram.com/tshradheya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tshradheya" height="20" width="20" /></a>
 <a href="https://www.youtube.com/c/tshradheya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="tshradheya" height="20" width="20" /></a>
 </p>
+
+<details>
+<p align="center">
+  <a href="https://github.com/tshradheya">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tshradheya&theme=transparent" />
+  </a>
+  <a href="https://github.com/tshradheya">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tshradheya&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/tshradheya">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tshradheya&theme=transparent" />
+  </a>
+  <a href="https://github.com/tshradheya">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshradheya&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
