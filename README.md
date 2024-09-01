@@ -1,4 +1,24 @@
-<h1 align="center">Hi 👋, I'm Shradheya Thakre</h1>
+<p>Hey, currently a software engineer at Abnormal Security dealing with lots of data and backend which powers the company's product.</p>
+
+<p>I enjoy building stuff and solving problems some of which can be found on my <a href="https://github.com/tshradheya">Github</a> and <a href="https://gitlab.com/tshradheya">GitLab</a>.</p>
+
+<p>Hit me up if you want to chat about anything tech or non-tech.</p>
+
+<p>Socials: <a href="https://linkedin.com/in/tshradheya">LinkedIn</a></p>
+
+<p align="center">
+  <a href="https://github.com/tshradheya">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tshradheya&theme=transparent" />
+  </a>
+  <a href="https://github.com/tshradheya">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tshradheya&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/tshradheya">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tshradheya&theme=transparent" />
+  </a>
+</p>
+
+<!-- <h1 align="center">Hi 👋, I'm Shradheya Thakre</h1>
 <h3 align="center">
  I am a Software Engineer at Agoda in Singapore. Worked at Visa Inc, <a href="https://github.com/TEAMMATES">Teammates OSS</a> and <a href="https://github.com/giddyin"> Boxed - New York</a>. Besides programming, I enjoy traveling and following sports.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tshradheya" alt="tshradheya" /> </p>
@@ -47,4 +67,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshradheya&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-</details>
+</details> -->
